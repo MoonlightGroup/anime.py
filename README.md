@@ -8,9 +8,6 @@ pip install anime.py
 
 ## Example Usage:
 ```py
-```py
-```py
-```py
 import asyncio
 
 from animepy import (
