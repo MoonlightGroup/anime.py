@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+scripts/__init__.py
+scripts/__smart_json__.py
+smartjson.egg-info/PKG-INFO
+smartjson.egg-info/SOURCES.txt
+smartjson.egg-info/dependency_links.txt
+smartjson.egg-info/top_level.txt

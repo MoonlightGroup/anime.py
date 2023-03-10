@@ -1,0 +1,137 @@
+[
+    {
+        "url": "https://i.imgur.com/x6P8rOG.gif",
+        "title": {
+            "native": "\u30c0\u30fc\u30ea\u30f3\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30d5\u30e9\u30f3\u30ad\u30b9",
+            "romaji": "Darling in the Franxx",
+            "english": "DARLING in the FRANXX"
+        },
+        "episode": 12
+    },
+    {
+        "url": "https://i.imgur.com/IZCTdCD.gif",
+        "title": {
+            "native": "\u6771\u4eac\u30ec\u30a4\u30f4\u30f3\u30ba",
+            "romaji": "Tokyo Ravens",
+            "english": "Tokyo Ravens"
+        },
+        "episode": 4
+    },
+    {
+        "url": "https://i.imgur.com/Xxg7ZxM.gif",
+        "title": {
+            "native": "\u3086\u308b\u3086\u308a\u266a\u266a",
+            "romaji": "Yuru Yuri\u266a\u266a",
+            "english": "YuruYuri Season 2"
+        },
+        "episode": 1
+    },
+    {
+        "url": "https://i.imgur.com/q8y8pVH.gif",
+        "title": {
+            "native": "\u4e94\u7b49\u5206\u306e\u82b1\u5ac1",
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets"
+        },
+        "episode": 3
+    },
+    {
+        "url": "https://i.imgur.com/7Xwz84S.gif",
+        "title": {
+            "native": "\u653f\u5b97\u304f\u3093\u306e\u30ea\u30d9\u30f3\u30b8",
+            "romaji": "Masamune-kun no Revenge",
+            "english": "Masamune-kun's Revenge"
+        },
+        "episode": 4
+    },
+    {
+        "url": "https://i.imgur.com/eDPRKLg.gif",
+        "title": {
+            "native": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059",
+            "romaji": "Kanojo, Okarishimasu",
+            "english": "Rent-a-Girlfriend"
+        },
+        "episode": 11
+    },
+    {
+        "url": "https://i.imgur.com/RQZeB1S.gif",
+        "title": {
+            "native": "\u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092\uff01",
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "KONOSUBA -God's blessing on this wonderful world!"
+        },
+        "episode": 5
+    },
+    {
+        "url": "https://i.imgur.com/z2pGco4.gif",
+        "title": {
+            "native": "\u661f\u754c\u306e\u6226\u65d7 II",
+            "romaji": "Seikai no Senki II",
+            "english": "Banner of the Stars II"
+        },
+        "episode": 7
+    },
+    {
+        "url": "https://i.imgur.com/Fudfk55.gif",
+        "title": {
+            "native": "\u3086\u308b\u3086\u308a\u3000\u306a\u3061\u3085\u3084\u3061\u3085\u307f\uff01",
+            "romaji": "Yuru Yuri Nachuyachumi!",
+            "english": "YuruYuri Nachuyachumi!"
+        },
+        "episode": null
+    },
+    {
+        "url": "https://i.imgur.com/Wd94QpT.gif",
+        "title": {
+            "native": "\u30cb\u30bb\u30b3\u30a4",
+            "romaji": "Nisekoi",
+            "english": "Nisekoi"
+        },
+        "episode": 18
+    },
+    {
+        "url": "https://i.imgur.com/gvssWJ3.gif",
+        "title": {
+            "native": "\u5f31\u866b\u30da\u30c0\u30eb LIMIT BREAK",
+            "romaji": "Yowamushi Pedal: LIMIT BREAK",
+            "english": "Yowamushi Pedal Limit Break"
+        },
+        "episode": 4
+    },
+    {
+        "url": "https://i.imgur.com/ZZZXKtm.gif",
+        "title": {
+            "native": "\u7b2c501\u7d71\u5408\u6226\u95d8\u822a\u7a7a\u56e3 \u30b9\u30c8\u30e9\u30a4\u30af\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba ROAD to BERLIN",
+            "romaji": "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
+            "english": "Strike Witches: Road to Berlin"
+        },
+        "episode": 9
+    },
+    {
+        "url": "https://i.imgur.com/dHffkLz.gif",
+        "title": {
+            "native": "\u30b7\u30e5\u30ac\u30fc\u30a2\u30c3\u30d7\u30eb\u30fb\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb",
+            "romaji": "Sugar Apple Fairy Tale",
+            "english": "Sugar Apple Fairy Tale"
+        },
+        "episode": 3
+    },
+    {
+        "url": "https://i.imgur.com/Ab3XDGn.gif",
+        "title": {
+            "native": "\u5f92\u7136\u30c1\u30eb\u30c9\u30ec\u30f3",
+            "romaji": "Tsurezure Children",
+            "english": "Tsuredure Children"
+        },
+        "episode": 1
+    },
+    {
+        "url": "https://i.imgur.com/9P5DRNE.gif",
+        "title": {
+            "native": "\u8ced\u30b1\u30b0\u30eb\u30a4",
+            "romaji": "Kakegurui",
+            "english": "Kakegurui"
+        },
+        "episode": 5
+    }
+]
