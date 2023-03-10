@@ -8,38 +8,28 @@ pip install anime.py
 
 ## Example Usage:
 ```py
-from pprint import pp
-
+```py
+```py
+```py
 import asyncio
 
 from animepy import (
-
     AnimeGif, AnimeSearch,
-
     SfwGif, SearchType
-
 )
 
 gif_res = AnimeGif(
-
     bucket=SfwGif.KISS,
-
     as_dict=True
-
 )
 
 search_res = asyncio.run(
-
     AnimeSearch(
-
         query="Naruto Shippuuden",
-
         type=SearchType.ANIME
-
     )
-
 )
 
-pp(gif_res)
+print(gif_res) # Anime Gif Result
 
-pp(search_res[0]["attributes"]["titles"])```
+print(search_res[0]["attributes"]["titles"]) # Anime Search Result```
