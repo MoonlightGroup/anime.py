@@ -29,4 +29,5 @@ search_res = asyncio.run(
 
 print(gif_res) # Anime Gif Result
 
-print(search_res[0]["attributes"]["titles"]) # Anime Search Result```
+print(search_res[0]["attributes"]["titles"]) # Anime Search Result
+```
